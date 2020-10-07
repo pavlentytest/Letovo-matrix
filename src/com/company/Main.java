@@ -7,6 +7,8 @@ public class Main {
 
     public static void main(String[] args) {
         // добавил комментарий
+        int p=100;
+        p++;
         
        /* int[] a;
         a = new int[5];
